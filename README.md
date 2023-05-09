@@ -28,7 +28,7 @@ Luego se debe descargar el repositorio o clonarlo para poder tener acceso al arc
 
 ### Prerequisites
 
-- Computadora o Laptop
+- Computadora o Laptop o celular para ver el codigo
 - Compilador de C++
 - Editor de Codigo
 
