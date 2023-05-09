@@ -35,6 +35,7 @@ Luego se debe descargar el repositorio o clonarlo para poder tener acceso al arc
 ### Installation
 
 Debes clonar el repositorio o descargarlo como archivo zip, para luego descomprimirlo. Luego se debe abrir con el editor de codigo el archivo descargado.
+Si desea ejecutar el programa con las caracteristicas del restaurante Beer & Creer puede hacerlo descargando los ejecutable, si su sistema Operativo es Linux debe descargar el archivo beers.out. Si posee el sistema Operativo Windows debe ejecutar el archivo .exe
 
 ## Usage
 
