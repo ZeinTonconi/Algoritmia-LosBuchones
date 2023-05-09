@@ -1,4 +1,4 @@
-# Beer && Creer
+# Beer & Creer
 
 Para la buena organizacion de un restaurante necesitamos, siempre ser lo mas eficientes posible.
 El algoritmo presente es capaz de organizar a los chef de acuerdo a sus especialidades para que los platos pueda ser despachados antes del tiempo limite.
